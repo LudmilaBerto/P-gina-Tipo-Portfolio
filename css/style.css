@@ -10,3 +10,14 @@ header{
     align-items: center;
     background-color: #211f50;
 }
+.logo-menu{
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+}
+.botones{
+    display: flex;
+    align-items: center;
+    
+}
