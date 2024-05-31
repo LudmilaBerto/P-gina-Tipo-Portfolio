@@ -4,13 +4,18 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: #211f50;
+}
 header{
     display: flex;
     flex-direction: row;
     justify-content:space-between;
     height: 75px;
     align-items: center;
-    background-color: #211f50;
+    border-bottom:solid  #fbfafc 1px ;
+    margin: 0 50px;
+    border-bottom: solid #6a686d94 0.5px;
 }
 .logo-menu{
     display: flex;
@@ -21,7 +26,6 @@ header{
 .botones{
     display: flex;
     align-items: center;
-    padding-right: 50px;
 }
 
 /*  Linea divisoria entre los botones dentro el div"botones"*/
@@ -35,7 +39,7 @@ hr{
 h2{
     font-family: "Barlow", sans-serif;
     font-weight: 500;
-    padding-left: 40px;
+    
     margin-bottom: 10px;
     font-size: 35px; 
     color: #fbfafc;
@@ -56,3 +60,4 @@ a{
     color:#fbfafc;
     
 }
+
