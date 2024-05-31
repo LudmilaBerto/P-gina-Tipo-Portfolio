@@ -40,3 +40,9 @@ h2{
     font-size: 35px; 
     color: #fbfafc;
  }
+
+ /* MENÚ DE PAGINA */
+ 
+ nav a{
+    margin-left: 55px;
+}
