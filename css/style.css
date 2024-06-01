@@ -39,7 +39,7 @@ hr{
 h2{
     font-family: "Barlow", sans-serif;
     font-weight: 500;
-    
+
     margin-bottom: 10px;
     font-size: 35px; 
     color: #fbfafc;
@@ -61,3 +61,27 @@ a{
     
 }
 
+/* Boton de Tema oscuro de la página*/
+
+.tema-oscuro{
+    color: #fbfafc;
+    border: solid #fbfafc 1px;
+    border-radius: 50%;
+    font-size: 13px;
+    padding: 6px;
+}
+
+/* Boton y texto de descargar CV */
+
+.boton-descarga{
+    background-color: #fbfafc;
+    color: #211f50;
+    border-radius: 50%;
+    font-size: 13px;
+    padding: 7px 8px;
+
+}
+
+.texto-descarga{
+    padding-left: 10px ;
+}
