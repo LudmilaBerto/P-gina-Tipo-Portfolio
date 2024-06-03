@@ -98,5 +98,26 @@ h2{
 
 /* COMIENZA SECTION UNO */
 
+.SectionUno{
+    height: 35vw;
 
 
+}
+
+
+/* CONTENEDOR DE LOS DIV A, B Y C */
+
+.Contenedor-De-Divs-A-B-C{
+    display: flex;
+    flex-direction: row;
+}
+
+/* CONTENEDOR DIV A  */
+
+.SectionUno-A{
+    height: 450px;
+    width: 450px;
+    border: solid violet 1px;
+    text-align: center;
+
+}
