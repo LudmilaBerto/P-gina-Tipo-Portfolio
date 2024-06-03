@@ -7,6 +7,10 @@
 body{
     background-color: #211f50;
 }
+
+
+/* COMIENZO DEL HEADER */
+
 header{
     display: flex;
     flex-direction: row;
@@ -30,7 +34,7 @@ header{
 
 /*  Linea divisoria entre los botones dentro el div"botones"*/
 
-hr{
+.divisor-de-botones-cv-y-temaoscuro{
     padding: 7px 0px;
     margin: 10px;
 }
@@ -53,7 +57,7 @@ h2{
 
 /* Estilizo de manera general la etiqueta a, dandole propiedades predeterminadas */
 
-a{
+.enlancesmenu{
     font-family: "Mulish", sans-serif;
     font-size: 13px;
     text-decoration: none;
@@ -83,5 +87,16 @@ a{
 }
 
 .texto-descarga{
+    font-family: "Mulish", sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    color:#fbfafc;
     padding-left: 10px ;
 }
+
+/* FINAL DEL HEADER */
+
+/* COMIENZA SECTION UNO */
+
+
+
