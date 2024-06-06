@@ -312,7 +312,31 @@ h2{
 
 /* COMIENZA SECTION CUATRO  */
 
+.SectionCuatro{
+    display: flex;
+    flex-direction: row;
+}
 
+.Section-Cuatro-A{
+    border: solid red 1px;
+    flex-grow: 1;
+    padding: 50px;
+}
+.Section-Cuatro-B{
+    border: solid red 1px;
+    flex-grow: 1;
+    padding: 50px;
+
+}
+
+.proyectos{
+    width: 300px;
+    height: 200px;
+}
+.Contenedor-ImagenYLink-Proyecto{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
