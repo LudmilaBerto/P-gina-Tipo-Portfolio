@@ -296,6 +296,9 @@ h2{
 .SectionTres{
     display: flex;
     flex-direction: row;
+    padding: 0px 60px;
+
+
 }
 
 .botones-anterior-proximo{
@@ -315,6 +318,7 @@ h2{
 .SectionCuatro{
     display: flex;
     flex-direction: row;
+    margin: 0 60px;
 }
 
 .Section-Cuatro-A{
@@ -343,3 +347,25 @@ h2{
 
 /* FINALIZA SECTION CUATRO */
 
+/* COMIENZA EL FOOTER */
+
+.Footer{
+    padding: 0 60px;
+    color: #ffffff;
+    
+}
+.Footer-Section-Uno{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid #f2f0ef 1px;
+}
+
+.Footer-Section-Dos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+/* FINAL DEL FOOTER */
