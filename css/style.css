@@ -78,6 +78,9 @@ h2{
     font-size: 13px;
     padding: 6px;
 }
+.tema-oscuro:hover{
+    background-color: #535283;
+}
 
 /* Boton y texto de descargar CV */
 
@@ -88,6 +91,9 @@ h2{
     font-size: 13px;
     padding: 7px 8px;
 
+}
+.boton-descarga:hover{
+    background-color: #d4d2d2;
 }
 
 .texto-descarga{
@@ -179,6 +185,9 @@ h2{
 
 
 }
+.link-contacto:hover{
+    background-color: #555486;
+}
 
 
 
@@ -196,11 +205,24 @@ h2{
 
 .cuadradito2D{
     background-color: #ffffff;
-    width: 100px;
+    width: 110px;
     height: 100px;
     transform: translate(300px, -390px);
 }
-
+.cuadradito2D h4{
+    color: #211f50;
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 8px 12px;
+}
+.cuadradito2D p{
+    color: #211f50;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding:0 12px;
+}
 
 
 
@@ -216,7 +238,7 @@ h2{
     justify-content: end;
     margin-top: 35px;
     margin-right: 40px;
-    padding-bottom: 250px;
+    padding-bottom: 240px;
 }
 
 .imagen-medio-circulo{
@@ -229,6 +251,19 @@ h2{
     padding-left: 20px;
 }
 
+.SectionUno-C-1 p{
+    color: #ffffff;
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+.SectionUno-C-1 h4{
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 15px;
+}
 
 
 
