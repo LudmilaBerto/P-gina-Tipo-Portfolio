@@ -25,7 +25,7 @@ header{
     align-items: center;
     border-bottom:solid  #fbfafc 1px ;
     margin: 0 60px;
-    border-bottom: solid #6a686d94 0.5px;
+    border-bottom: solid #6a686d94 1px;
 }
 .logo-menu{
     display: flex;
@@ -622,8 +622,29 @@ h2{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    border-bottom: solid #f2f0ef 1px;
+    border-bottom: solid #6a686d94  1px;
+    padding: 60px 0px ;
 }
+.contenedor-h2-p-footer{
+    flex-basis: 60%;
+}
+
+.contenedor-h2-p-footer h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+}
+.contenedor-h2-p-footer p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+}
+.circulo-rosa-hablemos{
+    height: 120px;
+    width: 120px;
+    flex-basis: 20%;
+}
+
 
 .Footer-Section-Dos{
     display: flex;
