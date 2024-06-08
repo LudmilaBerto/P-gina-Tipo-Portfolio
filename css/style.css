@@ -252,10 +252,10 @@ h2{
 }
 
 .SectionUno-C-1 p{
-    color: #ffffff;
+    color: #fff;
     font-family: "Barlow", sans-serif;
     font-weight: 200;
-    font-size: 15px;
+    font-size: 13px;
 }
 .SectionUno-C-1 h4{
     color: #ffffff;
@@ -273,17 +273,34 @@ h2{
 
 .SectionDos{
     
-    background-color: #f2f0ef;
+    background-color: #ffff;
     color: #211f50;
-    padding: 40px 60px;
+    padding: 50px 60px;
 }
 
 .titulo-texto-habilidades{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    padding-bottom: 20px;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+
+.titulo-texto-habilidades h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 34px;
+    color: #211f50;
+    flex-basis: 500px;
+
+}
+
+.titulo-texto-habilidades p{
+    font-family: "Barlow", sans-serif;
+    color: #181641;
+    font-weight: 400;
+    font-size: 13px;
+    margin-left: 200px;
 }
 
 .contenedor-habilidades{
@@ -291,14 +308,37 @@ h2{
     flex-direction: row;
     justify-content: space-around;
     flex-grow: 1;
-    padding: 30px;
+    padding: 40px;
+}
+
+.contenedor-habilidades p{
+    color: #211f50;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
 }
 
 .cuadradito-divisor{
-    background-color: black;
-    height: 10px;
-    width: 10px;
+    background-color: #211f50;
+    height: 15px;
+    width: 15px;
 }
+.hr-divisor-habilidades{
+    border: 0;
+    padding-top: 1px;
+    background-color: #b9b7b7a2 ;
+}
+
+.ComillasGrandes{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 100px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+
+}
+
+
 .alineacion-h2-hr{
     display: flex;
     flex-direction: row;
@@ -306,22 +346,41 @@ h2{
     
 }
 .alineacion-h2-hr h2{
-   flex-grow: 1;
+    color: #211f50;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    flex-grow: 1;
+}
+.LetraNegrita{
+    font-weight: 500;
+}
+.h2-2{
+    padding-left: 15px;
 }
 .alineacion-h2-hr hr{
     flex-grow: 9;
-    border: solid #211f50 1px;
+    color: #211f50;
 }
 
 .contenedor-sticker-texto{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    padding: 30px 0;
 }
 .circulo-rosa{
-    height: 70px;
-    width: 70px;
+    height: 120px;
+    width: 120px;
+    padding: 0 80px;
 }
 
+.contenedor-sticker-texto p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 0 80px;
+}
 
 /* FINALIZA SECTION DOS */
 
@@ -331,9 +390,74 @@ h2{
 .SectionTres{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 60px;
+
+
+}
+
+.Section-Tres-A{
+    flex-basis: 50%;
+}
+.Section-Tres-A h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 34px;
+
+}
+
+.medio-circulo-rosa{
+    height: 40px;
+    width: 40px;
+    transform: translate(250px, 0px);
+}
+
+.Section-Tres-A p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-size: 13px;
+    color: #ffff;
+}
+
+
+
+.Section-Tres-B{
+    flex-basis: 50%;
     padding: 0px 60px;
+}
 
+.Section-Tres-B p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-size: 13px;
+    text-align: center;
+    color: #ffffff;
+    width: 150px;
+    border: solid #fff 1px;
+    border-radius: 14px;
+    padding: 5px;
+    
+}
 
+.Section-Tres-B h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: #fff;
+    padding: 15px 0px;
+}
+.hr-section-tres{
+    border: 0px;
+    padding-top: 1px;
+    background-color: #b9b7b75d;
+}
+
+.Section-Tres-B h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    color: #fff;
+    padding: 20px 0px;
 }
 
 .botones-anterior-proximo{
@@ -342,7 +466,33 @@ h2{
     justify-content: end;
 }
 
+.link-anterior{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff96;
+    padding: 10px;
+    margin-right: 15px;
+}
+.link-anterior:hover{
+    background-color: #181641cc;
+    border-radius: 12px;
+}
 
+.link-proximo{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.link-proximo:hover{
+    background-color: #181641cc;
+    border-radius: 12px;
+}
 
 
 
