@@ -639,10 +639,15 @@ h2{
     font-weight: 400px;
     font-size: 13px;
 }
+
+.circulo-rosa-hablemos-link{
+    flex-basis: 10%;
+}
+
+
 .circulo-rosa-hablemos{
     height: 120px;
     width: 120px;
-    flex-basis: 20%;
 }
 
 
@@ -653,7 +658,12 @@ h2{
     align-items: center;
     height: 90px;
 }
+.contenedor-secciones-de-paginas a{
+    margin-right: 40px;
+}
 
-
+.contenedor-contacto-footer a{
+    margin-left: 30px;
+}
 
 /* FINAL DEL FOOTER */
