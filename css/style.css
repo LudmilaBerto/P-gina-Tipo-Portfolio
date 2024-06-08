@@ -593,8 +593,19 @@ h2{
     height: 250px;
 }
 
+.link-repositorio{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color: var(--ColorPrimario);
+    padding-top: 300px;
+}
 
-
+.link-repositorio:hover{
+    text-decoration: underline;
+    color: #555486;
+}
 
 
 /* FINALIZA SECTION CUATRO */
