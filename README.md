@@ -22,6 +22,8 @@ La página está estructurada en secciones o categorías que permiten una fácil
 
 ### Exhibición de Habilidades y Experiencia:
 En las siguientes secciones, destaco mis habilidades técnicas en la segunda sección, seguido de un desglose detallado de mi experiencia profesional en la tercera. Esto ofrece una visión completa de mis capacidades y logros hasta la fecha.
+>**Aclaracion:**
+>En la sección **Experiencia** no puse nada (solo un lorem para agregar algo de texto), ya que por el momento no cuento con experiencia.
 
 ### Portafolio de Proyectos Destacados:
 La cuarta sección alberga una colección de mis proyectos más destacados, presentados en orden cronológico inverso para mostrar mis habilidades en evolución. Cada proyecto se acompaña de una descripción detallada y enlaces pertinentes para explorar más a fondo.
