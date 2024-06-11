@@ -1,6 +1,5 @@
 # Página web tipo portfolio
 
-<video src=""/>
 
 ## Objetivo del proyecto
 
