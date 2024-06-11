@@ -1,4 +1,6 @@
-# Objetivo del proyecto
+# Página web de un portfolio
+
+## Objetivo del proyecto
 
 Mi proyecto implica crear una página web tipo portfolio que sea una réplica exacta del diseño de otra página portfolio que encontré en Dribble. Quiero asegurarme de que cada aspecto visual, desde la disposición de los elementos hasta los colores y efectos utilizados, sea idéntico al diseño original. Además, es crucial que mi página sea completamente responsive, adaptándose sin problemas a diferentes dispositivos como laptops, tablets y celulares. Mi objetivo es ofrecer una experiencia de usuario coherente y atractiva, manteniendo la fidelidad al diseño original en todos los aspectos.
 
