@@ -1,4 +1,6 @@
-# Página web de un portfolio
+# Página web tipo portfolio
+
+<video src=""/>
 
 ## Objetivo del proyecto
 
@@ -30,8 +32,10 @@ Para garantizar una experiencia fluida, el pie de página ofrece un menú adicio
 
 En resumen, mi página web de portfolio no solo exhibe mi trabajo y habilidades de manera efectiva, sino que también ofrece una experiencia de usuario intuitiva y completa, diseñada para satisfacer las necesidades de aquellos interesados en explorar mi perfil profesional.
 ***
+
 ## Visualización de la página web en vivo
 Te invito a echar un vistazo a mi página web tipo portfolio <a href="https://ludmilaberto.github.io/Pagina-Tipo-Portfolio/">aquí</a>
+
 ***
 ## Tecnologías Utilizadas
 - HTML
