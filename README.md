@@ -1,6 +1,10 @@
 # Página web tipo portfolio
 
 
+<video src="https://github.com/LudmilaBerto/Pagina-Tipo-Portfolio/assets/170376662/74a2c782-a3b7-4a9e-a9f9-e3515a0b0b33
+"/>
+
+
 ## Objetivo del proyecto
 
 Mi proyecto implica crear una página web tipo portfolio que sea una réplica exacta del diseño de otra página portfolio que encontré en Dribble. Quiero asegurarme de que cada aspecto visual, desde la disposición de los elementos hasta los colores y efectos utilizados, sea idéntico al diseño original. Además, es crucial que mi página sea completamente responsive, adaptándose sin problemas a diferentes dispositivos como laptops, tablets y celulares. Mi objetivo es ofrecer una experiencia de usuario coherente y atractiva, manteniendo la fidelidad al diseño original en todos los aspectos.
